@@ -1,1 +1,1 @@
-Now im python web dev, with knowledge of php, html, telegram-api, css, js
+🔐 DevSecOps | AWS • CI/CD • IaC Security | I build tools that secure cloud infra and pipelines 🚀 
