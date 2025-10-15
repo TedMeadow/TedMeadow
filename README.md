@@ -30,4 +30,4 @@ I'm a DevSecOps engineer passionate about building secure, robust, and efficient
 📫 **Let's Connect:**
 
 *   [Telegram](https://t.me/TedMeadow)
-*   [Email](tedmeadow@tedmeadow.ru)
+*   [Email](email://tedmeadow@tedmeadow.ru)
